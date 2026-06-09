@@ -22,7 +22,12 @@ pip install -r requirements.txt
 ```bash
 python main.py sample.pdf
 ```
+## Supported Features
 
+- Single PDF Summarization
+- OCR Support for Scanned PDFs
+- Multi-PDF Summarization
+- 
 ## Future Improvements
 
 - OCR support
