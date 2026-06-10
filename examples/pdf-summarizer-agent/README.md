@@ -27,7 +27,13 @@ python main.py sample.pdf
 - Single PDF Summarization
 - OCR Support for Scanned PDFs
 - Multi-PDF Summarization
-- 
+
+## Evaluation
+
+This agent can be evaluated using the Reliability Framework located in:
+
+benchmarks/reliability/
+
 ## Future Improvements
 
 - OCR support
